@@ -6,5 +6,7 @@ preciso comprar:
 goiaba
 maça
 Banana
+Abacaxi
+Melancia
 
 essa é a lista de compras
