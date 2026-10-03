@@ -3,7 +3,6 @@ git config --global user.email "seu@email.com"
 
 preciso comprar:
 
-
 Abacaxi
 Melancia
 uva
