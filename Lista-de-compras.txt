@@ -6,5 +6,6 @@ preciso comprar:
 Abacaxi
 Melancia
 uva
+Maracujá
 
 essa é a lista de compras
