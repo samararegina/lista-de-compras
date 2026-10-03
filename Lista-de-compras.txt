@@ -8,5 +8,6 @@ maça
 Banana
 Abacaxi
 Melancia
+uva
 
 essa é a lista de compras
