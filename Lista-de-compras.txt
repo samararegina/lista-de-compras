@@ -3,6 +3,9 @@ git config --global user.email "seu@email.com"
 
 preciso comprar:
 
+MAÇA 
+BANANA
+LARANJA
 goiaba
 maça
 Banana
