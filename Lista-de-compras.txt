@@ -1,0 +1,9 @@
+git config --global user.name "Seu nome"
+git config --global user.email "seu@email.com"
+
+preciso comprar:
+
+goiaba
+maça
+
+essa é a lista de compras
